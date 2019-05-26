@@ -1,0 +1,14 @@
+
+// = Java
+# = Python
+
+# let's go over some Git basics
+
+create new github repo
+1. Git add
+2. Git commit
+3. git push
+4. git difftool
+5. git status
+
+'Staging Area' = git
